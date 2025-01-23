@@ -113,16 +113,6 @@ Make sure to include **Typed.js** in your project:
 
 ---
 
-## 📸 **Visuals at a Glance**  
-
-| **Feature**            | **Preview**                                                                 |
-|-------------------------|-----------------------------------------------------------------------------|
-| **Typing Effect**       | ![Typing Demo](https://your-link.com/typing-demo.gif)                      |
-| **AI Image Generator**  | ![Generated Image](https://your-link.com/generated-image.jpg)              |
-| **Scroll Animations**   | ![Scroll Demo](https://your-link.com/scroll-demo.gif)                      |
-
----
-
 ## 🌐 **Resources**  
 
 - **Typed.js Documentation**: [Typed.js](https://mattboldt.com/demos/typed-js/)  
