@@ -1,7 +1,7 @@
 
 ---
 
-# 🎨✨ **Dynamic AI Image Generator with Scroll Animations**  
+# ✨ **AI Image Generator (QuantumPix)**  
 
 Unleash your creativity with this **AI-powered image generator** and **dynamic web animations**! Transform your ideas into stunning visuals, engage users with smooth animations, and make your web experience unforgettable. 🌟  
 
